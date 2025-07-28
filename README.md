@@ -38,7 +38,12 @@ This project is an interactive **Machine Learning web application** built using 
 
 🎓 Predicted exam score: 78.25
 ```
-
+# requirements
+  numpy
+  streamlit
+  joblib
+  scikit-learn
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -97,17 +102,6 @@ streamlit run app.py
 
 The app will automatically open in your default web browser at [http://localhost:8501](http://localhost:8501)
 
----
-
-## 🗂️ Project Structure
-
-```
-📁 student-score-predictor/
-├── app.py                  # Streamlit application
-├── student_model.pkl       # Pre-trained machine learning model
-├── README.md               # Project documentation (this file)
-└── requirements.txt        # Python dependencies (optional)
-```
 
 ---
 
@@ -128,26 +122,4 @@ Training is done separately — this app uses the exported `.pkl` model.
 
 ---
 
-## 🤝 Contributing
 
-Contributions, feedback, or ideas are welcome!  
-You can:
-
-- Fork this repo
-- Create a new branch
-- Make your changes
-- Submit a Pull Request
-
----
-
-## 🧑‍💻 Author
-
-**Gayathri A.**  
-📫 [GitHub Profile](https://github.com/Gayathri-0811)
-
----
-
-## 📃 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use it, modify it, and share it for learning or building upon.
