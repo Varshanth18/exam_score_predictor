@@ -65,7 +65,7 @@ Follow these steps to set up and run the project on your local machine:
 ### 1. 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/Gayathri-0811/student-score-predictor.git
+git clone (url)
 cd student-score-predictor
 ```
 
