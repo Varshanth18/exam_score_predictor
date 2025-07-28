@@ -23,7 +23,8 @@ This project is an interactive **Machine Learning web application** built using 
 
 ## 📷 App Preview
 
-> _You can add screenshots here after running the app locally using `streamlit run app.py` and saving snapshots._
+> <img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/95ec44bb-75c5-4240-8ca4-3dd315eb5407" />
+
 
 ```
 📘 Student Exam Score Predictor
